@@ -20,7 +20,7 @@ from multiprocessing import Process, Lock # for using Lock method(acquire(), rel
 # test
 # test2
 # Test 3
-# hyunbin123
+# hyunbin1234
 
 # for Put Lock objects into variables(lock)
 lock = Lock()
